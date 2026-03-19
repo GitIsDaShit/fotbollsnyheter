@@ -1,28 +1,28 @@
 {
   "title": "Roliga Fotbollsnyheter",
-  "subtitle": "Champions League-kaos, VM-drama och svenska superstjärnor som kämpar med landslagsförbannelsen",
+  "subtitle": "Veckan då Real Madrid körde över City, Barcelona bjöd på målkalas och Gyökeres fortsatte häcka i nätmaskorna",
   "updated": "2026-03-19",
   "articles": [
     {
       "id": 1,
-      "emoji": "🎪",
-      "headline": "Barcelona bjuder på cirkusföreställning – Newcastle får avgiftsfri entré!",
-      "summary": "Barcelona krossade Newcastle med hela 7-2 på Camp Nou och vann totalt 8-3. Det var som om Hansi Flick bjöd på en all-inclusive-resa till kvartsfinalland där Newcastle fick betala med mål istället för pengar. Raphinha tog hem 'Player of the Match' men egentligen förtjänade Newcastles försvar ett pris för bästa statistroller.",
-      "tag": "Champions League-kaos"
+      "emoji": "👑",
+      "headline": "Real Madrid skickade hem City med svansen mellan benen",
+      "summary": "Vinícius Júnior bestämde sig för att förstöra Manchester Citys hela existens med ett dubbeldubbel i 2-1-vinsten. Totalt blev det pinsamma 5-1 på aggregat – City hade fler skott (22!) än de hade självförtroende kvar. Guardiola såg ut som han precis upptäckt att någon ätit hans lunch.",
+      "tag": "Champions League"
     },
     {
       "id": 2,
-      "emoji": "👻",
-      "headline": "Vinícius Jr spökar ut Manchester City – igen!",
-      "summary": "Real Madrid slog ut Man City för TREDJE året i rad efter 5-1 totalt. Vinícius Jr gjorde två mål medan stackars Bernardo Silva fick rött kort för handboll. Guardiola såg ut som om någon hade stulit hans favorit-taktiktavla – igen. Champions League-spöket fortsätter att hemsöka Etihad!",
-      "tag": "Årlig City-mardröm"
+      "emoji": "🎯",
+      "headline": "Gyökeres gör mål som andra andas – även från bänken",
+      "summary": "Viktor Gyökeres hoppade in mot Everton, tog en touch, och satte avgörande 1-0 i 89:e minuten. Premier Leagues toppskytt 2026 behöver inte ens starta matcher längre – han dyker bara upp, nickar in bollar och försvinner igen som en svensk målgörande ninja.",
+      "tag": "Svensk stjärna"
     },
     {
       "id": 3,
       "emoji": "🇸🇪",
-      "headline": "Sveriges miljardduo Isak & Gyökeres – måltorka i landslaget!",
-      "summary": "Alexander Isak (145 miljoner euro till Liverpool) och Viktor Gyökeres (Arsenal) är värda tillsammans över 200 miljoner euro men har fortfarande inte gjort ett enda mål i VM-kvalet! Det är som att köpa två Ferrari och sen glömma nycklarna hemma. Nu ska Graham Potter (ja, han!) försöka trolla fram mål mot Ukraina den 26 mars. Gud bevare Sverige!",
-      "tag": "Dyrt målvakuum"
+      "headline": "Sverige ska till Valencia för att slåss om VM-biljetter",
+      "summary": "Ukraina har presenterat sin trupp och Sverige möter dem den 26 mars i Valencia. Vinner vi det väntar final hemma i Stockholm mot antingen Polen eller Albanien. Alexander Isak och Viktor Gyökeres ska försöka skjuta oss till VM – motståndarna borde börja svettas redan nu.",
+      "tag": "VM-kval 2026"
     }
   ]
 }
