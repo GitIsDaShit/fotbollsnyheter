@@ -1,0 +1,28 @@
+{
+  "title": "Roliga Fotbollsnyheter",
+  "subtitle": "Denna vecka: En mås blir matchhjälte, en målvakt somnar och en tränare får sparken av sin egen mamma",
+  "updated": "2026-03-19",
+  "articles": [
+    {
+      "id": 1,
+      "emoji": "🐦",
+      "headline": "Mås nickar in kvittering – kräver spelarkontrakt",
+      "summary": "En hungrig fiskmås flög in på Gamla Ullevi och skallade in bollen i krysset efter en misslyckad utspark. Måsen, döpt till 'Zlatan Jr' av fansen, har nu en agent och kräver 50 000 räkor i månadslön. IFK Göteborg överväger erbjudandet.",
+      "tag": "Transferrykten"
+    },
+    {
+      "id": 2,
+      "emoji": "😴",
+      "headline": "Målvakt somnade – vaknade av att bollen rullade in",
+      "summary": "Djurgårdens reservmålvakt Erik Lundin erkänner att han tog en 'mikrotupplur' i den 78:e minuten under söndagens match mot jumbon. 'Det var så lugnt på plan att jag bara slöt ögonen lite', förklarade han efter 0-1-förlusten. Huvudtränaren var mindre förstående.",
+      "tag": "Pinsamma ögonblick"
+    },
+    {
+      "id": 3,
+      "emoji": "👵",
+      "headline": "Tränare fick sparken – av sin egen mamma i styrelsen",
+      "summary": "Kramfors FF:s tränare Bengt-Åke Persson, 47, blev avskedad efter fem raka förluster. Det pikanta? Beslutet togs av klubbens styrelseordförande – hans mamma Gun-Britt, 74. 'Han får komma hem och äta köttbullar istället. Det är han bättre på', meddelade hon i pressreleasen.",
+      "tag": "Familjedrama"
+    }
+  ]
+}
