@@ -1,28 +1,28 @@
 {
   "title": "Roliga Fotbollsnyheter",
-  "subtitle": "Denna vecka: En mås blir matchhjälte, en målvakt somnar och en tränare får sparken av sin egen mamma",
+  "subtitle": "Champions League-kaos, VM-drama och svenska superstjärnor som kämpar med landslagsförbannelsen",
   "updated": "2026-03-19",
   "articles": [
     {
       "id": 1,
-      "emoji": "🐦",
-      "headline": "Mås nickar in kvittering – kräver spelarkontrakt",
-      "summary": "En hungrig fiskmås flög in på Gamla Ullevi och skallade in bollen i krysset efter en misslyckad utspark. Måsen, döpt till 'Zlatan Jr' av fansen, har nu en agent och kräver 50 000 räkor i månadslön. IFK Göteborg överväger erbjudandet.",
-      "tag": "Transferrykten"
+      "emoji": "🎪",
+      "headline": "Barcelona bjuder på cirkusföreställning – Newcastle får avgiftsfri entré!",
+      "summary": "Barcelona krossade Newcastle med hela 7-2 på Camp Nou och vann totalt 8-3. Det var som om Hansi Flick bjöd på en all-inclusive-resa till kvartsfinalland där Newcastle fick betala med mål istället för pengar. Raphinha tog hem 'Player of the Match' men egentligen förtjänade Newcastles försvar ett pris för bästa statistroller.",
+      "tag": "Champions League-kaos"
     },
     {
       "id": 2,
-      "emoji": "😴",
-      "headline": "Målvakt somnade – vaknade av att bollen rullade in",
-      "summary": "Djurgårdens reservmålvakt Erik Lundin erkänner att han tog en 'mikrotupplur' i den 78:e minuten under söndagens match mot jumbon. 'Det var så lugnt på plan att jag bara slöt ögonen lite', förklarade han efter 0-1-förlusten. Huvudtränaren var mindre förstående.",
-      "tag": "Pinsamma ögonblick"
+      "emoji": "👻",
+      "headline": "Vinícius Jr spökar ut Manchester City – igen!",
+      "summary": "Real Madrid slog ut Man City för TREDJE året i rad efter 5-1 totalt. Vinícius Jr gjorde två mål medan stackars Bernardo Silva fick rött kort för handboll. Guardiola såg ut som om någon hade stulit hans favorit-taktiktavla – igen. Champions League-spöket fortsätter att hemsöka Etihad!",
+      "tag": "Årlig City-mardröm"
     },
     {
       "id": 3,
-      "emoji": "👵",
-      "headline": "Tränare fick sparken – av sin egen mamma i styrelsen",
-      "summary": "Kramfors FF:s tränare Bengt-Åke Persson, 47, blev avskedad efter fem raka förluster. Det pikanta? Beslutet togs av klubbens styrelseordförande – hans mamma Gun-Britt, 74. 'Han får komma hem och äta köttbullar istället. Det är han bättre på', meddelade hon i pressreleasen.",
-      "tag": "Familjedrama"
+      "emoji": "🇸🇪",
+      "headline": "Sveriges miljardduo Isak & Gyökeres – måltorka i landslaget!",
+      "summary": "Alexander Isak (145 miljoner euro till Liverpool) och Viktor Gyökeres (Arsenal) är värda tillsammans över 200 miljoner euro men har fortfarande inte gjort ett enda mål i VM-kvalet! Det är som att köpa två Ferrari och sen glömma nycklarna hemma. Nu ska Graham Potter (ja, han!) försöka trolla fram mål mot Ukraina den 26 mars. Gud bevare Sverige!",
+      "tag": "Dyrt målvakuum"
     }
   ]
 }
