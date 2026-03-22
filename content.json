@@ -1,28 +1,28 @@
 {
   "title": "Roliga Fotbollsnyheter",
-  "subtitle": "Veckan då Real Madrid körde över City, Barcelona bjöd på målkalas och Gyökeres fortsatte häcka i nätmaskorna",
-  "updated": "2026-03-19",
+  "subtitle": "Engelska lag får stryk i Champions League medan Sverige drömmer VM-drömmar",
+  "updated": "2026-03-22",
   "articles": [
     {
       "id": 1,
-      "emoji": "👑",
-      "headline": "Real Madrid skickade hem City med svansen mellan benen",
-      "summary": "Vinícius Júnior bestämde sig för att förstöra Manchester Citys hela existens med ett dubbeldubbel i 2-1-vinsten. Totalt blev det pinsamma 5-1 på aggregat – City hade fler skott (22!) än de hade självförtroende kvar. Guardiola såg ut som han precis upptäckt att någon ätit hans lunch.",
-      "tag": "Champions League"
+      "emoji": "💀",
+      "headline": "Real Madrid skickar hem Manchester City i bodybag",
+      "summary": "Pep Guardiolas lag fick uppleva en helt ny nivå av smärta när Real Madrid krossade dem med 5-1 totalt. Vinícius Jr gjorde två mål medan City-spelarna mest sprang runt som vilsna turister på Bernabéu. Bernardo Silva fick rött kort för att ha försökt bli en målvakt med handen – spoiler: det gick inte bra.",
+      "tag": "CL-katastrof"
     },
     {
       "id": 2,
-      "emoji": "🎯",
-      "headline": "Gyökeres gör mål som andra andas – även från bänken",
-      "summary": "Viktor Gyökeres hoppade in mot Everton, tog en touch, och satte avgörande 1-0 i 89:e minuten. Premier Leagues toppskytt 2026 behöver inte ens starta matcher längre – han dyker bara upp, nickar in bollar och försvinner igen som en svensk målgörande ninja.",
-      "tag": "Svensk stjärna"
+      "emoji": "👑",
+      "headline": "Salah blir historisk – Afrika jublar, målvakten gråter",
+      "summary": "Mohamed Salah curlade in sitt 50:e Champions League-mål och blev den första afrikanen att nå milstolpen. Liverpool mosade Galatasaray med 4-0 och Salah firade genom att få bollen att göra saker som fysikens lagar säger är omöjliga. Målvakten Çakir rapporteras fortfarande leta efter sin självkänsla.",
+      "tag": "Historiskt mål"
     },
     {
       "id": 3,
       "emoji": "🇸🇪",
-      "headline": "Sverige ska till Valencia för att slåss om VM-biljetter",
-      "summary": "Ukraina har presenterat sin trupp och Sverige möter dem den 26 mars i Valencia. Vinner vi det väntar final hemma i Stockholm mot antingen Polen eller Albanien. Alexander Isak och Viktor Gyökeres ska försöka skjuta oss till VM – motståndarna borde börja svettas redan nu.",
-      "tag": "VM-kval 2026"
+      "headline": "Sverige laddar för VM-kval – Gyökeres i truppen!",
+      "summary": "Blågult möter Ukraina den 26 mars i jakten på en VM-plats. I truppen finns Arsenal-stjärnan Viktor Gyökeres som äntligen vaknat till liv efter en seg start i Premier League. Svenskarna har även bokat en vänskapsmatch mot Norge – grannfejden lever vidare, nu med VM-biljetter på spel!",
+      "tag": "VM-drömmar"
     }
   ]
 }
